@@ -1,2 +1,22 @@
 
+.container{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+} 
+.c3, .c1, .c2{
+	width:100px;
+	height:100px;
+	font-size:300%
+}
+.c3{
+	background:green;
+}
+.c1{
+	background:red;
+}
+.c2{
+	background:blue;
+}
 /* Your CSS Code here. */
